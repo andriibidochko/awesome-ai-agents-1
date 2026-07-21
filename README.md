@@ -523,6 +523,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://beam.ai/">website</a> | <a href="https://twitter.com/join__beam">twitter</a> | <a href="https://www.linkedin.com/company/beam-ai">linkedin</a> | <a href="https://www.youtube.com/@beam-ai">youtube</a></p>
 </div>
 
+### BenchGen
+<div><a href="https://benchgen.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+<p>⭐ N/A</p>
+<p>📊 Evaluation Frameworks</p>
+
+<p>AI agent benchmarking and evaluation platform. Run structured benchmark suites, score agents across tool-call accuracy, goal completion, and skill coverage, then export filtered trajectories for LoRA fine-tuning.</p>
+
+<p><a href="https://benchgen.com">website</a></p>
+</div>
+
 ### Bland
 <div><a href="https://www.bland.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
